@@ -1,16 +1,19 @@
-# my_first_app
+# Furniture Shopping Flutter Application
 
-A new Flutter project.
+This is a basic Flutter application for furniture shopping. It includes a single component that can be used to display information about a furniture item.
+
+## Profile Card Component
+
+The Profile Card component is a reusable widget that displays information about a furniture item. It includes the following details:
+
+- **Name**: The name of the furniture item.
+- **Description**: A brief description of the item.
+- **Image**: An image of the furniture item.
+- **On Tap Functionality**: The card can respond to taps, which can be used for further actions.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Clone the repository to your local machine:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+   ```shell
+   https://github.com/DushyantBhardwaj07/Furniture-Shopping-App-Flutter
