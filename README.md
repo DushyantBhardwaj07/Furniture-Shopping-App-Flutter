@@ -17,3 +17,10 @@ The Profile Card component is a reusable widget that displays information about 
 
    ```shell
    https://github.com/DushyantBhardwaj07/Furniture-Shopping-App-Flutter
+2. Open the project in your preferred code editor (e.g., Visual Studio Code, Android Studio).
+
+3. Run the app on an emulator or physical device:
+   ```shell
+   flutter run
+
+
